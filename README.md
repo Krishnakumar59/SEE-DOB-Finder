@@ -14,7 +14,7 @@ This project contains a Selenium-based automation script that find wrong date in
 
 1. **Clone the repository:**
     ```sh
-    git clone [https://github.com/Krishnakumar59/SEE-DOB-Finder.git]
+    git clone https://github.com/Krishnakumar59/SEE-DOB-Finder.git
     cd SEE-DOB-Finder
     ```
 
